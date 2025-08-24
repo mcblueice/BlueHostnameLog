@@ -1,0 +1,8 @@
+name: BlueHostnameLog
+version: '${project.version}'
+main: net.mcblueice.bluehostnamelog.BlueHostnameLog
+api-version: 1.20
+author: Blue
+description: "登入紀錄插件"
+prefix: BlueHostnameLog
+depend: [PlaceholderAPI]
